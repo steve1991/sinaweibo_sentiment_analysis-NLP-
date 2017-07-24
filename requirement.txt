@@ -1,0 +1,5 @@
+gensim==0.13.3
+jieba==0.38
+sklearn==0.0
+numpy==1.11.2
+pandas==0.18.1
